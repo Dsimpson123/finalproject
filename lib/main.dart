@@ -5,8 +5,6 @@ import 'stylist.dart';
 import 'saved.dart';
 import 'profile.dart';
 import 'app_state.dart';
-import 'login.dart';
-import 'signup.dart';
 
 
 

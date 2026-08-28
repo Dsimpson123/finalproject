@@ -3,7 +3,6 @@ import 'models/outfit.dart';
 import 'shopping.dart';
 import 'saved.dart';
 import 'app_state.dart';
-import 'login.dart';
 
 class ProfilePage extends StatefulWidget {
 
